@@ -3,10 +3,12 @@ I wrote a code where u can evaluate the values of circumference or area with pi.
 
 ![Explanation](./1.png)
 
-Formulas for circle
+
 ![Explanation](./2.png)
 
-
+Formulas for circle
 ![Explanation](./3.png)
+
+
 
 ![Explanation](./4.png)
